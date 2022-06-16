@@ -1,0 +1,3 @@
+﻿name					"Zeit's Script Library"
+kuid                                    <kuid:453603:100578>
+kind                                    "misc"

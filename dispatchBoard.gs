@@ -1,0 +1,5 @@
+Class DispatchBoard
+{
+	bool isEnabled;
+	
+}
